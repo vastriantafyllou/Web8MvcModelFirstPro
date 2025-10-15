@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolApp", "SchoolApp\SchoolApp.csproj", "{55722734-0F98-4DAD-A40D-0B8ADF4BB77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55722734-0F98-4DAD-A40D-0B8ADF4BB77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55722734-0F98-4DAD-A40D-0B8ADF4BB77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55722734-0F98-4DAD-A40D-0B8ADF4BB77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55722734-0F98-4DAD-A40D-0B8ADF4BB77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
